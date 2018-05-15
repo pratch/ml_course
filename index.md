@@ -27,7 +27,7 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | Composition vs Inheritance, immutability & static facotry methods | 
-| | <http://www.cs.cornell.edu/courses/CS2112/2014fa/> |
-| 2 | <http://www.cs.cornell.edu/courses/CS2112/2015fa/> |
+| 1 | Welcome | 
+| | Version Control |
+| 2 | Composition vs Inheritance, immutability & static facotry methods |
 | | <http://www.cs.cornell.edu/courses/CS2112/2016fa/> |
