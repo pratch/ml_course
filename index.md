@@ -8,6 +8,19 @@ layout: default
 - Details for the team project demo have been released
 {: class="course-announcements"}
 
+<div class="course-announcements">
+  <h2 id="announcements">Announcements</h2>
+
+  <ul>
+    <li><a href="https://piazza.com/class/jc3tyv6ot2s2ot?cid=192">Details for the team project demo have been released</a></li>
+    <li><a href="https://piazza.com/class/jc3tyv6ot2s2ot?cid=173">The third deliverable for the team project has been released</a></li>
+  </ul>
+  
+  - test
+  - test
+
+</div>
+
 
 ## General Info
 
