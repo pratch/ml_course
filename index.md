@@ -3,15 +3,17 @@ title: Software Engineering
 description: 32091306 วิศวกรรมซอฟต์แวร์
 layout: default
 ---
+{% comment %} 
+  This will not show
+{% endcomment %} 
 
 <div class="course-announcements">
   <h2 id="announcements">Announcements</h2>
   <ul>
-    <li><a href="">Details for the team project demo have been released</a></li>
-    <li><a href="">The third deliverable for the team project has been released</a></li>
+    <li><a href="">รายละเอิียดเกี่ยวกับงาน Milestone 1</a></li>
+    <li><a href="">ส่งงาน Fease study ได้ที่นี่</a></li>
   </ul>
 </div>
-
 
 ## General Info
 
