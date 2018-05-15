@@ -5,7 +5,7 @@ layout: default
 ---
 
 Hey test
-{: class="redbox"}
+{: class="course-announcements"}
 Announcement
 
 
