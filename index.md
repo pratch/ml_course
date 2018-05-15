@@ -23,6 +23,11 @@ layout: default
 | Project Proposal | อ. 20 พ.ค. 23:59 |
 | Feasability study | อ. 20 พ.ค. 23:59 |
 
+| Title | Due Date |
+| --- | --- | 
+| 1 | Welcome | 
+| | Version Control |
+
 ### Slides
 
 | Week # | Topics |
