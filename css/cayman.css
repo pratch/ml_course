@@ -130,11 +130,6 @@ a {
     color: #567482;
     background-color: #f3f6fa;
     border-radius: 0.3rem; }
-  .main-content redbox {
-    padding: 2px 4px;
-    color: red;
-    background-color: #f3f6fa;
-    border-radius: 0.3rem; }
   .main-content pre {
     padding: 0.8rem;
     margin-top: 0;
@@ -244,3 +239,18 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+
+.course-announcements {
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 2px solid #b81a22;
+
+  padding: 1em;
+}
+
+.course-announcements>h1, .course-announcements>h2{
+  text-align: center;
+  color: #b81a22;
+}
