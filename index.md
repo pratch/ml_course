@@ -4,9 +4,9 @@ description: 32091306 วิศวกรรมซอฟต์แวร์
 layout: default
 ---
 
-Hey test 2
+## Announcements
+- Details for the team project demo have been released
 {: class="course-announcements"}
-Announcement
 
 
 ## General Info
