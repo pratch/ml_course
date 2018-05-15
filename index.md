@@ -18,15 +18,11 @@ layout: default
 | 2 | ทค.1-202 | อ 13-18 |
 
 ### Project Deliverables
-| Title | Due Date |
-| --- | --- |
-| Project Proposal | อ. 20 พ.ค. 23:59 |
-| Feasability study | อ. 20 พ.ค. 23:59 |
 
 | Title | Due Date |
 | --- | --- | 
-| 1 | Welcome | 
-| | Version Control |
+| Project Proposal | อ. 20 พ.ค. 23:59 | 
+| Feasability study | อ. 20 พ.ค. 23:59 |
 
 ### Slides
 
