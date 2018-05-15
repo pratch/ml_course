@@ -4,7 +4,8 @@ description: 32091306 วิศวกรรมซอฟต์แวร์
 layout: default
 ---
 
-{:.redbox}
+Hey test
+{: class="redbox"}
 Announcement
 
 
