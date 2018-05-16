@@ -1,7 +1,6 @@
 ---
 title: Artificial Intelligence and Machine Learning
-description: 32094318 ปัญญาประดิษฐ์สำหรับหุ่นยนต์	<br> 
-ENGCE178 ปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง
+description: 32094318 ปัญญาประดิษฐ์สำหรับหุ่นยนต์	<br> ENGCE178 ปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง
 layout: default
 ---
 {% comment %} 
