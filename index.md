@@ -1,6 +1,6 @@
 ---
-title: Software Engineering
-description: 32091306 วิศวกรรมซอฟต์แวร์
+title: Artificial Intelligence and Machine Learning
+description: 32094318 ปัญญาประดิษฐ์สำหรับหุ่นยนต์	/ ENGCE178 ปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง
 layout: default
 ---
 {% comment %} 
@@ -19,7 +19,8 @@ layout: default
 
 ### Course Description
 
-ศึกษาถึง บทบาท หน้าที่ของวิศวกรซอฟแวร์ วิวัฒนาการของซอฟแวร์และหลักของตัวซอฟแวร์ รูปแบบลักษณะของวงจรการทำงานของซอฟแวร์ การเข้าใจในเรื่องการกำหนดความต้องการและข้อกำหนดต่างๆ ของการออกแบบซอฟแวร์ การออกแบบเพื่อนำไปสู่การพัฒนาซอฟแวร์ เทคนิคต่างๆที่ใช้ และความสำคัญของการบำรุงรักษา คุณภาพของกระบวนการในแต่ละขั้นตอนของการพัฒนาซอฟแวร์ แนวคิดของกระบวนการพัฒนาซอฟแวร์ต่างๆ การเพิ่มประสิทธิภาพให้กับกระบวนการต่างๆ การทดสอบซอฟแวร์ การบริหารโครงการพัฒนาซอฟแวร์ การเลือกใช้เครื่องมือในการพัฒนาต่างๆ การทำการปฏิสัมพันธ์กับผู้ใช้งานในด้านของวิศวกรรมซอฟแวร์
+ศึกษาและฝึกปฏิบัติเกี่ยวกับ การเรียนรู้ของเครื่องและทฤษฎีการเรียนรู้ การเรียนรู้แบบมีผู้สอน  การแบ่งประเภท  การถดถอย ค่าผิดปกติ ซัพพอร์ตเวกเตอร์แมชชีน การเลือกแบบจำลองและคุณลักษณะ การลดขนาดมิติของข้อมูล ต้นไม้ตัดสินใจ การเรียนรู้แบบไม่มีผู้สอน การจัดกลุ่ม การเรียนรู้แบบเสริมกำลัง ข่ายงานประสาทเทียม การเรียนรู้เชิงลึก 
+Study and practice of Introduction and Learning theory, Supervised learning, Classification, Regression, Outliers, Support vector machines, Model selection and feature selection, dimensionality reduction, Decision trees, Unsupervised learning, Clustering, Reinforcement learning, Artificial neural networks, Deep Learning.
 
 ### Lectures
 
