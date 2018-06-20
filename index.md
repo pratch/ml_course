@@ -10,8 +10,7 @@ layout: default
 <div class="course-announcements">
   <h2 id="announcements">Announcements</h2>
   <ul>
-    <li><a href="">รายละเอิียดเกี่ยวกับงาน Milestone 1</a></li>
-    <li><a href="">ส่งงาน Fease study ได้ที่นี่</a></li>
+    <li><a href="">/placeholder</a></li>
   </ul>
 </div>
 
