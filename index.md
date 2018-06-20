@@ -41,6 +41,6 @@ Study and practice of Introduction and Learning theory, Supervised learning, Cla
 | Week # | Topics |
 | --- | --- | 
 | 1 | Introduction to AI | 
-| <td colspan=2>Machine Learning  |
+|<td colspan=2>Machine Learning|
 | 2 | Linear Classification |
 | |  |
