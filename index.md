@@ -41,6 +41,15 @@ Study and practice of Introduction and Learning theory, Supervised learning, Cla
 | Week # | Topics |
 | --- | --- | 
 | 1 | Introduction to AI | 
-| Machine Learning ||
+| **Classical AI** ||
+| 7 | Tree Search, Search Space, Blind Search, Heuristic, Adversarial |
+| 8 | Dynamic Programming | 
+| 9 | Knowledge Representation | 
+| 10 | First-Order Logic, Propositional Logic, Inference | 
+| **Machine Learning** ||
 | 2 | Linear Classification |
-| |  |
+| 3 | Stochastic Gradient Descent |
+| 4 | Features |
+| 6 | K-Means | 
+| 5 | Neural Networks, kNN |
+| ? | Deep Learning |
