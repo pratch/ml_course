@@ -26,15 +26,14 @@ Study and practice of Introduction and Learning theory, Supervised learning, Cla
 
 | Section | Room | Time | 
 | --- | --- | --- |
-| 1 | ทค.1-201 | พ 12-15 |
-| 2 | ทค.1-202 | อ 13-18 |
+| 1 | ทค.1-101? | ศ 14:00-17:00 |
 
-### Project Deliverables
+### Assignments
 
 | Title | Due Date |
 | --- | --- | 
-| Project Proposal | อ. 20 พ.ค. 23:59 | 
-| Feasability study | อ. 20 พ.ค. 23:59 |
+| Homework 1 | 20 พ.ค. 23:59 | 
+| Homework 2 | 20 พ.ค. 23:59 |
 
 ### Slides
 
