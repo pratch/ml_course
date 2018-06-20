@@ -46,6 +46,7 @@ Study and practice of Introduction and Learning theory, Supervised learning, Cla
 | 8 | Dynamic Programming | 
 | 9 | Knowledge Representation | 
 | 10 | First-Order Logic, Propositional Logic, Inference | 
+| ? | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
 | **Machine Learning** ||
 | 2 | Linear Classification |
 | 3 | Stochastic Gradient Descent |
