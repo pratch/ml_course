@@ -40,7 +40,7 @@ Study and practice of Introduction and Learning theory, Supervised learning, Cla
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | Welcome | 
-| | Version Control |
-| 2 | Composition vs Inheritance, immutability & static facotry methods |
-| | <http://www.cs.cornell.edu/courses/CS2112/2016fa/> |
+| 1 | Introduction to AI | 
+| <td colspan=2>Machine Learning  |
+| 2 | Linear Classification |
+| |  |
