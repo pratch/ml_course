@@ -23,6 +23,9 @@ layout: default
 
 ศึกษาและปฏิบัติการเกี่ยวกับ **(AI)** นิยามของปัญญาประดิษฐ์ ปัญหาพื้นฐานของปัญญาประดิษฐ์ การเข้าใจภาษามนุษย์ การประมวลผลภาพ การควบคุมหุ่นยนต์ ระบบผู้เชี่ยวชาญการแทนความรู้ การค้นหา การอนุมาน และการใช้ Heuristic การแก้ปัญหาเชิงปัญญาประดิษฐ์ **(Machine Learning)** การเรียนรู้ของเครื่องและทฤษฎีการเรียนรู้ การเรียนรู้แบบมีผู้สอน  การแบ่งประเภท  การถดถอย ค่าผิดปกติ ซัพพอร์ตเวกเตอร์แมชชีน การเลือกแบบจำลองและคุณลักษณะ การลดขนาดมิติของข้อมูล ต้นไม้ตัดสินใจ การเรียนรู้แบบไม่มีผู้สอน การจัดกลุ่ม การเรียนรู้แบบเสริมกำลัง ข่ายงานประสาทเทียม การเรียนรู้เชิงลึก 
 
+### Tools
+- Language: Python
+- Library: Anaconda Package (Numpy, Jupyter, Scikit-Learn, TensorFlow)
 
 ### Lectures
 
@@ -34,8 +37,8 @@ layout: default
 
 | Title | Due Date |
 | --- | --- | 
-| Homework 1 | 20 พ.ค. 23:59 | 
-| Homework 2 | 20 พ.ค. 23:59 |
+| Homework 1 | 20 xx 23:59 | 
+| Homework 2 | 20 xx 23:59 |
 
 ### Slides
 
@@ -55,3 +58,12 @@ layout: default
 | 6 | K-Means | 
 | 5 | Neural Networks, kNN |
 | ? | Deep Learning |
+
+### Textbook
+- [ปัญญาประดิษฐ์ (Artificial Intelligence) เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
+- [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/)
+- [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20)
+
+### Links
+- [CS 221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/index.html#coursework)
+- 
