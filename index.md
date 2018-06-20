@@ -18,7 +18,8 @@ layout: default
 
 ### Course Description
 
-วิชาบังคับก่อน: 32091203 โครงสร้างข้อมูลและขั้นตอนวิธี
+วิชาบังคับก่อน: โครงสร้างข้อมูลและขั้นตอนวิธี
+ควรเรียนมาก่อน: ความน่าจะเป็นและสถิติในงานวิศวกรรม, วิยุตคณิตศาสตร์
 
 ศึกษาและปฏิบัติการเกี่ยวกับ **(AI)** นิยามของปัญญาประดิษฐ์ ปัญหาพื้นฐานของปัญญาประดิษฐ์ การเข้าใจภาษามนุษย์ การประมวลผลภาพ การควบคุมหุ่นยนต์ ระบบผู้เชี่ยวชาญการแทนความรู้ การค้นหา การอนุมาน และการใช้ Heuristic การแก้ปัญหาเชิงปัญญาประดิษฐ์ **(Machine Learning)** การเรียนรู้ของเครื่องและทฤษฎีการเรียนรู้ การเรียนรู้แบบมีผู้สอน  การแบ่งประเภท  การถดถอย ค่าผิดปกติ ซัพพอร์ตเวกเตอร์แมชชีน การเลือกแบบจำลองและคุณลักษณะ การลดขนาดมิติของข้อมูล ต้นไม้ตัดสินใจ การเรียนรู้แบบไม่มีผู้สอน การจัดกลุ่ม การเรียนรู้แบบเสริมกำลัง ข่ายงานประสาทเทียม การเรียนรู้เชิงลึก 
 
@@ -43,20 +44,23 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | Introduction to AI | 
+| 1 | Introduction to AI |
+|   | 3 Paradigms: Models, Inference, Learning |
 | **Classical AI** ||
-| 7 | Tree Search, Search Space, Blind Search, Heuristic, Adversarial |
-| 8 | Dynamic Programming | 
-| 9 | Knowledge Representation | 
-| 10 | First-Order Logic, Propositional Logic, Inference | 
-| ? | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
+| 2 | Searching (State-based Models) |
+|   | Search Space, Tree Search, Blind Search, Heuristic |
+| 3 | Dynamic Programming | 
+| 4 | Knowledge Representation | 
+| 5 | Logic |
+|   | First-Order Logic, Propositional Logic, Inference | 
+| 6 | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
 | **Machine Learning** ||
-| 2 | Linear Classification |
-| 3 | Stochastic Gradient Descent |
-| 4 | Features |
-| 6 | K-Means | 
-| 5 | Neural Networks, kNN |
-| ? | Deep Learning |
+| 7 | Linear Classification |
+| 8 | Stochastic Gradient Descent |
+| 9 | Features |
+| 10 | K-Means | 
+| 11 | Neural Networks, kNN |
+| 12 | Deep Learning |
 
 ### Textbook
 - [ปัญญาประดิษฐ์ (Artificial Intelligence)](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf) เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย
