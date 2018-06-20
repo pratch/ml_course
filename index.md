@@ -59,10 +59,10 @@ layout: default
 | ? | Deep Learning |
 
 ### Textbook
-- [ปัญญาประดิษฐ์ (Artificial Intelligence) เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
-- [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/)
-- [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20)
-- [An Introduction to Statistical Learning: with Application in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+- [**ปัญญาประดิษฐ์ (Artificial Intelligence)** เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
+- [**Artificial Intelligence: A Modern Approach** by Russell and Norvig](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/)
+- [**Hands-On Machine Learning with Scikit-Learn & TensorFlow** by Aurélien Géron](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20)
+- [**An Introduction to Statistical Learning: with Application in R** by Gareth James et al.](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
 
 ### Links
 - [CS 221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/index.html#coursework)
