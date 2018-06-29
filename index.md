@@ -44,7 +44,7 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | Introduction to AI |
+| 1 | [Introduction to AI](1%20-%20Introduction.pdf) |
 |   | 3 Paradigms: Models, Inference, Learning |
 | **Classical AI** ||
 | 2 | Searching (State-based Models) |
