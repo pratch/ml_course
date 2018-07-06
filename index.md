@@ -47,7 +47,7 @@ layout: default
 | 1 | [Introduction to AI](1%20-%20Introduction.pdf) |
 |   | 3 Paradigms: Models, Inference, Learning |
 | **Machine Learning** ||
-| 2 | Linear Classification |
+| 2 | [Supervised Learning](2%20-%20Supervised.pdf) |
 | 3 | Stochastic Gradient Descent |
 | 4 | Features |
 | 5 | K-Means | 
