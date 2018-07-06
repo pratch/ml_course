@@ -46,21 +46,21 @@ layout: default
 | --- | --- | 
 | 1 | [Introduction to AI](1%20-%20Introduction.pdf) |
 |   | 3 Paradigms: Models, Inference, Learning |
-| **Classical AI** ||
-| 2 | Searching (State-based Models) |
-|   | Search Space, Tree Search, Blind Search, Heuristic |
-| 3 | Dynamic Programming | 
-| 4 | Knowledge Representation | 
-| 5 | Logic |
-|   | First-Order Logic, Propositional Logic, Inference | 
-| 6 | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
 | **Machine Learning** ||
-| 7 | Linear Classification |
-| 8 | Stochastic Gradient Descent |
-| 9 | Features |
-| 10 | K-Means | 
-| 11 | Neural Networks, kNN |
-| 12 | Deep Learning |
+| 2 | Linear Classification |
+| 3 | Stochastic Gradient Descent |
+| 4 | Features |
+| 5 | K-Means | 
+| 6 | Neural Networks, kNN |
+| 7 | Deep Learning |
+| **Classical AI** ||
+| 8 | Searching (State-based Models) |
+|   | Search Space, Tree Search, Blind Search, Heuristic |
+| 9 | Dynamic Programming | 
+| 10 | Knowledge Representation | 
+| 11 | Logic |
+|   | First-Order Logic, Propositional Logic, Inference | 
+| 12 | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
 
 ### Textbook
 - [ปัญญาประดิษฐ์ (Artificial Intelligence)](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf) เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย
