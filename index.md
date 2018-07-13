@@ -48,7 +48,7 @@ layout: default
 |   | 3 Paradigms: Models, Inference, Learning |
 | **Machine Learning** ||
 | 2 | [Supervised Learning](2%20-%20Supervised.pdf) |
-| 3 | Stochastic Gradient Descent |
+| 3 | [kNN and MNIST](3%20-%20kNN%20and%20MNIST.pdf)|
 | 4 | Features |
 | 5 | K-Means | 
 | 6 | Neural Networks, kNN |
