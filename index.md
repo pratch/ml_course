@@ -49,8 +49,8 @@ layout: default
 | **Machine Learning** ||
 | 2 | [Supervised Learning](2%20-%20Supervised.pdf) |
 | 3 | [kNN and MNIST](3%20-%20kNN%20and%20MNIST.pdf)|
-| 4 | [Linear Regression, Gradient Descent](4%20-%20Linear%20Regression.pdf) |
-| 5 | K-Means | 
+| 4 | [Linear Regression](4%20-%20Linear%20Regression.pdf) |
+| 5 | [Gradient Descent, Logistic Regression](4%20-%20Linear%20Regression.pdf) | 
 | 6 | Neural Networks, kNN |
 | 7 | Deep Learning |
 | **Classical AI** ||
