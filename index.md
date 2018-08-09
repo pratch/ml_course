@@ -39,8 +39,7 @@ layout: default
 
 | Title | Due Date |
 | --- | --- | 
-| Homework 1 | 19 ส.ค. 2561 | 
-| จงทำ linear regression กับข้อมูลชุดเดิมกับในแล็บ แต่เปลี่ยนจากวิธีคำนวณสูตร Normal Equation เอง ไปใช้ library ของ scikit-learn แทน โดยทำใน Jupyter แล้วรันให้เห็นผล โดยอ้างอิงจาก: http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html | |
+| Homework 1 จงทำ linear regression กับข้อมูลชุดเดิมกับในแล็บ แต่เปลี่ยนจากวิธีคำนวณสูตร Normal Equation เอง ไปใช้ library ของ scikit-learn แทน โดยทำใน Jupyter แล้วรันให้เห็นผล โดยอ้างอิงจาก: http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html  | 19 ส.ค. 2561 | 
 | Homework 2 | 20 xx 23:59 |
 
 ### Slides
