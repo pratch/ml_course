@@ -5,7 +5,6 @@ layout: default
 ---
 {% comment %} 
   This will not show
-{% endcomment %} 
 
 <div class="course-announcements">
   <h2 id="announcements">Announcements</h2>
@@ -13,6 +12,7 @@ layout: default
     <li><a href="">/placeholder</a></li>
   </ul>
 </div>
+{% endcomment %} 
 
 ## General Info
 
