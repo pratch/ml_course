@@ -56,8 +56,9 @@ layout: default
 | 3 | [kNN and MNIST](3%20-%20kNN%20and%20MNIST.pdf)|
 | 4 | [Linear Regression](4%20-%20Linear%20Regression.pdf) |
 | 5 | [Gradient Descent, Logistic Regression](4%20-%20Linear%20Regression.pdf) | 
-| 6 | Neural Networks, kNN |
-| 7 | Deep Learning |
+| 6 | [SVM](5%20-%20SVM.pdf) |
+|   | Midterm Review |
+| 7 | Neural Networks, Deep Learning |
 | **Classical AI** ||
 | 8 | Searching (State-based Models) |
 |   | Search Space, Tree Search, Blind Search, Heuristic |
