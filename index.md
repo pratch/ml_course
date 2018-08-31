@@ -58,7 +58,7 @@ layout: default
 | 5 | [Gradient Descent, Logistic Regression](4%20-%20Linear%20Regression.pdf) | 
 | 6 | [SVM](5%20-%20SVM.pdf) |
 |   | Midterm Review |
-| 7 | Neural Networks, Deep Learning |
+| 7 | [Neural Networks, Deep Learning](6%20-%20Decision%20Tree,%20Neural.pdf) |
 | **Classical AI** ||
 | 8 | Searching (State-based Models) |
 |   | Search Space, Tree Search, Blind Search, Heuristic |
