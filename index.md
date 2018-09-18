@@ -58,15 +58,16 @@ layout: default
 | 5 | [Gradient Descent, Logistic Regression](4%20-%20Linear%20Regression.pdf) | 
 | 6 | [SVM](5%20-%20SVM.pdf) |
 |   | Midterm Review |
-| 7 | [Neural Networks, Deep Learning](6%20-%20Decision%20Tree,%20Neural.pdf) |
+| 7 | [Decision Tree](6%20-%20Decision%20Tree.pdf) |
+| 8 | Neural Networks, Deep Learning |
 | **Classical AI** ||
-| 8 | Searching (State-based Models) |
+| 9 | Searching (State-based Models) |
 |   | Search Space, Tree Search, Blind Search, Heuristic |
-| 9 | Dynamic Programming | 
-| 10 | Knowledge Representation | 
-| 11 | Logic |
+| 10 | Dynamic Programming | 
+| 11 | Knowledge Representation | 
+| 12 | Logic |
 |   | First-Order Logic, Propositional Logic, Inference | 
-| 12 | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
+| 13 | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
 
 ### Textbook
 - [ปัญญาประดิษฐ์ (Artificial Intelligence)](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf) เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย
