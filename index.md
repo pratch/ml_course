@@ -36,14 +36,14 @@ layout: default
 
 | Section | Room | Time | 
 | --- | --- | --- |
-| 1 | ทค.1-101? | ศ 14:00-17:00 |
+| 1 | ทค.2-101 | ศ 14:00-17:00 |
 
 ### Assignments
 
 | Homework | Due |
 | --- | --- | 
 | **Homework 1** จงทำ linear regression กับข้อมูลชุดเดิมกับในแล็บ แต่เปลี่ยนจากวิธีคำนวณสูตร Normal Equation เอง ไปใช้ library ของ scikit-learn แทน โดยทำใน Jupyter แล้วรันให้เห็นผล โดยอ้างอิงจาก: http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html  | 19 ส.ค. 2561 | 
-| :exclamation: **Homework 2** จงใช้โมเดล decision tree เพื่อทำนายการเลือก major ของนักศึกษาโดยพิจารณาจากข้อมูลเกรดในแต่ละหมวดหมู่วิชาของนักศึกษา อ่านรายละเอียดได้ที่ท้าย [สไลด์ Decision Tree](6%20-%20Decision%20Tree.pdf) ดาวน์โหลดข้อมูล: [student_training.csv](student_training.csv), [student_scoring.csv](student_scoring.csv) | 23 ก.ย. 2561 |
+| :exclamation: **Homework 2** จงใช้โมเดล decision tree เพื่อทำนายการเลือก major ของนักศึกษาโดยพิจารณาจากข้อมูลเกรดในแต่ละหมวดหมู่วิชาของนักศึกษา อ่านรายละเอียดได้ที่ท้าย [สไลด์ Decision Tree](6%20-%20Decision%20Tree.pdf) ดาวน์โหลดข้อมูล: [student_training.csv](data/student_training.csv), [student_scoring.csv](data/student_scoring.csv) | 23 ก.ย. 2561 |
 
 ### Slides
 
