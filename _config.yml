@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: ENGCE178 Artificial Intelligence and Machine Learning
 description: ENGCE178	ปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง	
+plugins:
+  - jemoji
