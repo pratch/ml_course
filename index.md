@@ -79,3 +79,4 @@ layout: default
 - [CS 221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/index.html#coursework)
 - [Siraj Raval's Deep Learning YouTube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [A Beginner's Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+- [Sinapsis: Neural Network Visualization](https://chumo.github.io/Sinapsis/)
