@@ -59,7 +59,7 @@ layout: default
 | 6 | [SVM](5%20-%20SVM.pdf) |
 |   | Midterm Review |
 | 7 | [Decision Tree](6%20-%20Decision%20Tree.pdf) |
-| 8 | Neural Networks, Deep Learning |
+| 8 | [Neural Networks, Deep Learning](7%20-%20Neural%20Networks.pdf) |
 | **Classical AI** ||
 | 9 | Searching (State-based Models) |
 |   | Search Space, Tree Search, Blind Search, Heuristic |
