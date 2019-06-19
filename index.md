@@ -54,7 +54,7 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | [Introduction to AI](1-intro.pdf) |
+| 1 | [Introduction to AI](slides/1-intro.pdf) |
 | **Machine Learning** ||
 | 2 | [Supervised Learning](slides-2018/2%20-%20Supervised.pdf) |
 | 3 | [kNN and MNIST](slides-2018/3%20-%20kNN%20and%20MNIST.pdf)|
