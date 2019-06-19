@@ -40,6 +40,7 @@ layout: default
 
 {% comment %} 
 
+
 ### Assignments
 
 | Homework | Due |
