@@ -67,7 +67,7 @@ layout: default
 | 8 | [Neural Networks, Deep Learning](slides-2018/7%20-%20Neural%20Networks.pdf) |
 |   | [Natural Language Processing](slides-2018/8%20-%20NLP.pdf) |
 | **Classical AI** ||
-| 9 | Searching (slides-2018/State-based Models) |
+| 9 | Searching (State-based Models) |
 |   | [UC Berkeley CS188 - Uninformed Search](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) |
 |   | [UC Berkeley CS188 - Informed Search](http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx) |
 |   | [Chiang Mai U 204471 slides](slides-2018/http://www.cs.science.cmu.ac.th/course/204471/lib/exe/fetch.php?media=04_searching_01_uninformed.pdf) |
