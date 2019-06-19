@@ -36,7 +36,9 @@ layout: default
 
 | Section | Room | Time | 
 | --- | --- | --- |
-| 1 | ทค.2-101 | ศ 14:00-17:00 |
+| 1 | ทค.2-201 | อ 12:00-17:00 |
+
+{% comment %} 
 
 ### Assignments
 
@@ -45,12 +47,14 @@ layout: default
 | **Homework 1** จงทำ linear regression กับข้อมูลชุดเดิมกับในแล็บ แต่เปลี่ยนจากวิธีคำนวณสูตร Normal Equation เอง ไปใช้ library ของ scikit-learn แทน โดยทำใน Jupyter แล้วรันให้เห็นผล โดยอ้างอิงจาก: http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html  | 19 ส.ค. 2561 | 
 | :exclamation: **Homework 2** จงใช้โมเดล decision tree เพื่อทำนายการเลือก major ของนักศึกษาโดยพิจารณาจากข้อมูลเกรดในแต่ละหมวดหมู่วิชาของนักศึกษา อ่านรายละเอียดได้ที่ท้าย [สไลด์ Decision Tree](6%20-%20Decision%20Tree.pdf) ดาวน์โหลดข้อมูล: [student_training.csv](data/student_training.csv), [student_scoring.csv](data/student_scoring.csv) | 23 ก.ย. 2561 |
 
+{% endcomment %} 
+
+
 ### Slides
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | [Introduction to AI](slides-2018/1%20-%20Introduction.pdf) |
-|   | 3 Paradigms: Models, Inference, Learning |
+| 1 | [Introduction to AI](1-intro.pdf) |
 | **Machine Learning** ||
 | 2 | [Supervised Learning](slides-2018/2%20-%20Supervised.pdf) |
 | 3 | [kNN and MNIST](slides-2018/3%20-%20kNN%20and%20MNIST.pdf)|
