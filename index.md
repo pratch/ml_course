@@ -59,8 +59,8 @@ layout: default
 | **Machine Learning** ||
 | 2 | [Supervised Learning](slides/2-supervised.pdf) |
 | 3 | [k-Nearest Neighbors](slides/3-knn.pdf)|
-| 4 | [Linear Regression](slides/4-model-selection.pdf) |
-| 5 | [Gradient Descent, Logistic Regression](slides-2018/4%20-%20Linear%20Regression.pdf) | 
+| 4 | [Model Selection](slides/4-model-selection.pdf) |
+| 5 | [Linear Regression, Gradient Descend](slides/5-linear-regression.pdf) | 
 | 6 | [SVM](slides-2018/5%20-%20SVM.pdf) |
 |   | Midterm Review |
 | 7 | [Decision Tree](slides-2018/6%20-%20Decision%20Tree.pdf) |
