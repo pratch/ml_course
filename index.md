@@ -63,7 +63,13 @@ layout: default
 | 5 | [Linear Regression, Gradient Descend](slides/5-linear-regression.pdf) | 
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
 |   | Midterm Review |
-| 7 | [Decision Tree](slides-2018/6%20-%20Decision%20Tree.pdf) |
+| 7 | Midterm | 
+| 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) |
+|   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
+
+
+{% comment %}
+
 | 8 | [Neural Networks, Deep Learning](slides-2018/7%20-%20Neural%20Networks.pdf) |
 |   | [Natural Language Processing](slides-2018/8%20-%20NLP.pdf) |
 | **Classical AI** ||
@@ -81,10 +87,12 @@ layout: default
 |   | First-Order Logic, Propositional Logic, Inference | 
 | 13 | Adversarial Search, Game Playing, Minimax, eval func, alpha-beta pruning |
 
+{% endcomment %}
+
 ### Textbook
-- [ปัญญาประดิษฐ์ (Artificial Intelligence)](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf) เขียนโดย บุญเสริม กิจศิริกุล ภาควิชาวิศวกรรมคอมพิวเตอร์ จุฬาลงกรณ์มหาวิทยาลัย
-- [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/) by Russell and Norvig
 - [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20) by Aurélien Géron
+- [ปัญญาประดิษฐ์ (Artificial Intelligence)](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf) โดยอ.บุญเสริม กิจศิริกุล จุฬาลงกรณ์มหาวิทยาลัย
+- [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/) by Russell and Norvig
 - [An Introduction to Statistical Learning: with Application in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370) by Gareth James et al.
 
 ### Links
