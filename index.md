@@ -55,8 +55,7 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
-| 1 | [Introduction to AI](slides/1-intro.pdf) |
-| **Machine Learning** ||
+| 1 | [Introduction to AI, ML](slides/1-intro.pdf) |
 | 2 | [Supervised Learning](slides/2-supervised.pdf) |
 | 3 | [k-Nearest Neighbors](slides/3-knn.pdf)|
 | 4 | [Model Selection](slides/4-model-selection.pdf) |
@@ -64,7 +63,7 @@ layout: default
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
 |   | Midterm Review |
 | 7 | Midterm | 
-| 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) - [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
+| 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) -- [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
 
 
