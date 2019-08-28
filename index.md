@@ -64,8 +64,8 @@ layout: default
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
 |   | Midterm Review |
 | 7 | Midterm | 
-| 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) |
-|   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf), [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
+| 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) - [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
+|   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
 
 
 {% comment %}
