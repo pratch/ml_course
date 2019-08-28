@@ -59,7 +59,7 @@ layout: default
 | 2 | [Supervised Learning](slides/2-supervised.pdf) |
 | 3 | [k-Nearest Neighbors](slides/3-knn.pdf)|
 | 4 | [Model Selection](slides/4-model-selection.pdf) |
-| 5 | [Linear Regression, Gradient Descend](slides/5-linear-regression.pdf) | 
+| 5 | [Linear Regression, Gradient Descent](slides/5-linear-regression.pdf) | 
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
 |   | Midterm Review |
 | 7 | Midterm | 
