@@ -65,7 +65,7 @@ layout: default
 | 7 | Midterm | 
 | 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) -- [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
-
+| 9 | [Decision Tree](slides/8-decision-tree.pdf)|
 
 {% comment %}
 
