@@ -66,10 +66,10 @@ layout: default
 | 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) -- [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
 | 9 | [Decision Tree](slides/8-decision-tree.pdf)|
+| 10 | [Neural Networks, Deep Learning](slides/9-neural-networks.pdf) |
 
 {% comment %}
 
-| 8 | [Neural Networks, Deep Learning](slides-2018/7%20-%20Neural%20Networks.pdf) |
 |   | [Natural Language Processing](slides-2018/8%20-%20NLP.pdf) |
 | **Classical AI** ||
 | 9 | Searching (State-based Models) |
