@@ -68,6 +68,9 @@ layout: default
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
 | 9 | [Decision Tree](slides/8-decision-tree.pdf)|
 | 10 | [Neural Networks, Deep Learning](slides/9-neural-networks.pdf) |
+| 11 | CNN, RNN |
+|    | [CS231n@Stanford slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) |
+|    | [Aj. Ekkapol@Chula slides](https://github.com/ekapolc/pattern_course18/blob/master/slides/L09-CNN-RNN.pdf) |
 
 {% comment %}
 
