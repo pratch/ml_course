@@ -70,17 +70,17 @@ layout: default
 | 10 | [Neural Networks, Deep Learning](slides/9-neural-networks.pdf) |
 | 11 | CNN, RNN |
 |    | Slides: [CS231n@Stanford](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf), [Aj. Ekkapol@Chula](https://github.com/ekapolc/pattern_course18/blob/master/slides/L09-CNN-RNN.pdf) |
-
-{% comment %}
-
-|   | [Natural Language Processing](slides-2018/8%20-%20NLP.pdf) |
 | **Classical AI** ||
-| 9 | Searching (State-based Models) |
+| 12 | Searching (State-based Models) |
 |   | [UC Berkeley CS188 - Uninformed Search](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) |
 |   | [UC Berkeley CS188 - Informed Search](http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx) |
 |   | [Chiang Mai U 204471 slides](slides-2018/http://www.cs.science.cmu.ac.th/course/204471/lib/exe/fetch.php?media=04_searching_01_uninformed.pdf) |
 |   | [Exercise](http://ai.berkeley.edu/sections/section_0_v55LOfoUUwiW1k6Nchnk3Dw6WQuTW8.pdf) |
 |   | [Exercise 2](https://inst.eecs.berkeley.edu/~cs188/fa18/assets/hw/CS_188_Fall_2018_Written_HW1.pdf) |
+
+{% comment %}
+
+|   | [Natural Language Processing](slides-2018/8%20-%20NLP.pdf) |
 | 10 | [Final Review]() |
 | **Future** | |
 | 10 | Dynamic Programming | 
