@@ -55,23 +55,24 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
+| 0 | [Course Overview](slides/0-overview.pdf) |
 | 1 | [Introduction to AI, ML](slides/1-intro.pdf) |
 | 2 | [Supervised Learning](slides/2-supervised.pdf) |
 | 3 | [k-Nearest Neighbors](slides/3-knn.pdf)|
 | 4 | [Model Selection](slides/4-model-selection.pdf) |
 | 5 | [Linear Regression, Gradient Descent](slides/5-linear-regression.pdf) | 
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
-|   | Midterm Review |
-| 7 | Midterm | 
-| 8 | [Support Vector Machines (SVM)](slides/7-svm.pdf) -- [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
+| 7 | [Support Vector Machines (SVM)](slides/7-svm.pdf) -- [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
+|   | Midterm | 
 |   | [In-class: Math behind SVM](slides/svm-math.pdf) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
-| 9 | [Decision Tree](slides/8-decision-tree.pdf)|
-| 10 | [Neural Networks, Deep Learning](slides/9-neural-networks.pdf) |
+| 8 | [Decision Tree](slides/8-decision-tree.pdf)|
+| 9 | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
+| 10 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
 | 11 | CNN, RNN |
 |    | Slides: [CS231n@Stanford](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf), [Aj. Ekkapol@Chula](https://github.com/ekapolc/pattern_course18/blob/master/slides/L09-CNN-RNN.pdf) |
 | **Classical AI** ||
-| 12 | Searching (State-based Models) |
+| 12 | [Searching (State-based Models)](slides/12-search.pdf) |
 |   | [UC Berkeley CS188 - Uninformed Search](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) |
 |   | [UC Berkeley CS188 - Informed Search](http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx) |
 |   | [Chiang Mai U 204471 slides](http://www.cs.science.cmu.ac.th/course/204471/lib/exe/fetch.php?media=04_searching_01_uninformed.pdf) |
