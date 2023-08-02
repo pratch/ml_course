@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence and Machine Learning
-description: 32094318 ปัญญาประดิษฐ์สำหรับหุ่นยนต์	<br> ENGCE178 ปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง <br><br> วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา
+description: ENGCE178 ปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง <br><br> วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา
 layout: default
 ---
 {% comment %} 
@@ -55,14 +55,14 @@ layout: default
 
 | Week # | Topics |
 | --- | --- | 
-| 0 | [Course Overview](slides/0-overview.pdf) |
-| 1 | [Introduction to AI, ML](slides/1-intro.pdf) |
+| 0 | [Course Overview](slides/0-overview.pdf), Math Review |
+| 1 | [Introduction to AI, ML](slides/1-intro.pdf), Python Basics |
 | 2 | [Supervised Learning](slides/2-supervised.pdf) |
 | 3 | [k-Nearest Neighbors](slides/3-knn.pdf)|
 | 4 | [Model Selection](slides/4-model-selection.pdf) |
 | 5 | [Linear Regression, Gradient Descent](slides/5-linear-regression.pdf) | 
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
-| 7 | [Support Vector Machines (SVM)](slides/7-svm.pdf) -- [Live Questions](https://app.sli.do/event/qplpkuub/live/questions) |
+| 7 | [Support Vector Machines (SVM)](slides/7-svm.pdf) |
 |   | Midterm | 
 |   | [In-class: Math behind SVM](slides/svm-math.pdf) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
@@ -70,10 +70,13 @@ layout: default
 | 9 | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
 | 10 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
 | 11 | CNN, RNN |
-|    | Slides: [CS231n@Stanford](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf), [Aj. Ekkapol@Chula](https://github.com/ekapolc/pattern_course18/blob/master/slides/L09-CNN-RNN.pdf) |
+|    | Slides: [CS231n@Stanford](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) |
+| 12 | [Advanced Topics on DL, NLP](slides/13-advanced-topics.pdf) |
 | **Classical AI** ||
-| 12 | [Search (State-based Models)](slides/12-search.pdf) |
+| 13 | [Search (State-based Models)](slides/12-search.pdf) |
 |    | (Adapted from [UC Berkeley CS118](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx)) |
+| 14 | Adversarial Search, Minimax, alpha-beta pruning|
+| 15 | [Future Topics](slides/14-future-topics.pdf) |
 
 {% comment %}
 |   | [UC Berkeley CS188 - Uninformed Search](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) |
@@ -96,14 +99,14 @@ layout: default
 
 {% endcomment %}
 
-### Textbook
+### Textbooks
 - [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20) by Aurélien Géron
-- [ปัญญาประดิษฐ์ (Artificial Intelligence)](http://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf) โดยอ.บุญเสริม กิจศิริกุล จุฬาลงกรณ์มหาวิทยาลัย
-- [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/) by Russell and Norvig
+- [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) by Francois Chollet
 - [An Introduction to Statistical Learning: with Application in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370) by Gareth James et al.
 
 ### Links
-- [CS 221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/index.html#coursework)
-- [Siraj Raval's Deep Learning YouTube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- [A Beginner's Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
-- [Sinapsis: Neural Network Visualization](https://chumo.github.io/Sinapsis/)
+- [CS229@Stanford](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+- [CS231n@Stanford](http://cs231n.stanford.edu/)
+- [Chris Olah's Blog](https://colah.github.io/)
+- [Coursera DL Specialization](https://www.coursera.org/specializations/deep-learning)
+
