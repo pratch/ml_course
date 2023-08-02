@@ -63,9 +63,9 @@ layout: default
 | 5 | [Linear Regression, Gradient Descent](slides/5-linear-regression.pdf) | 
 | 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
 | 7 | [Support Vector Machines (SVM)](slides/7-svm.pdf) |
-|   | Midterm | 
 |   | [In-class: Math behind SVM](slides/svm-math.pdf) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
+|   | Midterm | 
 | 8 | [Decision Tree](slides/8-decision-tree.pdf)|
 | 9 | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
 | 10 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
