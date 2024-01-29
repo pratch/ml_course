@@ -61,7 +61,7 @@ layout: default
 | 3 | [k-Nearest Neighbors](slides/3-knn.pdf)|
 | 4 | [Model Selection](slides/4-model-selection.pdf) |
 | 5 | [Linear Regression, Gradient Descent](slides/5-linear-regression.pdf) | 
-| 6 | [Logistic Regression](slides/6-logistic-regression.pdf) |
+| 6 | [Logistic Regression, Probabilistic Interpretation & MLE](slides/6-logistic-regression.pdf) |
 | 7 | [Support Vector Machines (SVM)](slides/7-svm.pdf) |
 |   | [In-class: Math behind SVM](slides/svm-math.pdf) |
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
