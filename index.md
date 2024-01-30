@@ -68,8 +68,8 @@ layout: default
 | 8 | [Decision Tree](slides/8-decision-tree.pdf)|
 | 9 | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
 | 10 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
-| 11 | [CNN (CS231n@Stanford)](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) |
-|    | [(ป.โท) RNN](slides/recurrent-neural-networks.pdf)  |
+| 11 | [CNN](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) (CS231n@Stanford)|
+|    | [RNN](slides/recurrent-neural-networks.pdf)  |
 | 12 | [Advanced Topics on DL, NLP](slides/13-advanced-topics.pdf) |
 |    | [(ป.โท) Regularization Techniques for DL](slides/advanced-topics-dl.pdf)|
 | **Classical AI** ||
