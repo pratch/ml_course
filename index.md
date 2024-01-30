@@ -68,9 +68,10 @@ layout: default
 | 8 | [Decision Tree](slides/8-decision-tree.pdf)|
 | 9 | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
 | 10 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
-| 11 | CNN, RNN |
-|    | Slides: [CS231n@Stanford](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) |
+| 11 | [CNN (CS231n@Stanford)](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) |
+|    | [(ป.โท) RNN](slides/recurrent-neural-networks.pdf)  |
 | 12 | [Advanced Topics on DL, NLP](slides/13-advanced-topics.pdf) |
+|    | [(ป.โท) Regularization Techniques for DL](slides/advanced-topics-dl.pdf)|
 | **Classical AI** ||
 | 13 | [Search (State-based Models)](slides/12-search.pdf) |
 |    | (Adapted from [UC Berkeley CS118](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx)) |
