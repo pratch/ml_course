@@ -66,10 +66,11 @@ layout: default
 |   | [Supplement Reading: User's Guide to SVM](http://pyml.sourceforge.net/doc/howto.pdf) |
 |   | Midterm | 
 | 8 | [Decision Tree](slides/8-decision-tree.pdf)|
-| 9 | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
-| 10 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
-| 11 | [CNN](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) (CS231n@Stanford)|
-|    | [RNN](slides/recurrent-neural-networks.pdf)  |
+|  | [Ensemble Learning](slides/9-decision-tree-ensemble.pdf)|
+| 9 | [Neural Networks, Deep Learning](slides/10-neural-networks.pdf) |
+| 10 | [CNN](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) (CS231n@Stanford)|
+| 11 | [RNN](slides/recurrent-neural-networks.pdf)  |
+|    | [(ป.โท) Attention & Transformer](slides/transformer.pdf) |
 | 12 | [Advanced Topics on DL, NLP](slides/13-advanced-topics.pdf) |
 |    | [(ป.โท) Regularization Techniques for DL](slides/advanced-topics-dl.pdf)|
 | **Classical AI** ||
