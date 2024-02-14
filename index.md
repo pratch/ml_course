@@ -75,7 +75,7 @@ layout: default
 |    | [(ป.โท) Regularization Techniques for DL](slides/advanced-topics-dl.pdf)|
 | **Classical AI** ||
 | 13 | [Search (State-based Models)](slides/12-search.pdf) |
-|    | (Adapted from [UC Berkeley CS118](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx)) |
+|    | (Taken from [UC Berkeley CS118](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx), with slight modifications) |
 | 14 | Adversarial Search, Minimax, alpha-beta pruning|
 | 15 | [Future Topics](slides/14-future-topics.pdf) |
 
